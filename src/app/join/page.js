@@ -4,7 +4,6 @@ export default function Join() {
       <a
         className="bg-gray-800 px-5 py-2.5 rounded-md text-sm hover:bg-black/80 transition-all ease-in"
         href="https://www.google.com"
-        target="_blank"
         rel="noopener noreferrer"
       >
         Apply Now
